@@ -12,4 +12,4 @@ This will give you an understanding of:
 The code examples are listed in separate projects:
 
 - [Java MapReduce project](https://github.com/basecamp-uhh/Java-MapReduce)
-- [Python MapReduce streaming project]https://github.com/basecamp-uhh/py-mapreduce)
+- [Python MapReduce streaming project](https://github.com/basecamp-uhh/py-mapreduce)
